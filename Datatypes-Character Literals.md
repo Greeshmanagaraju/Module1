@@ -17,4 +17,4 @@ print(c2)
 ## Output
 <img width="951" height="250" alt="image" src="https://github.com/user-attachments/assets/9668a4f8-180c-4d92-9c20-b5489c236671" />
 ## Result
-<img width="951" height="250" alt="image" src="https://github.com/user-attachments/assets/28967109-d992-4ef8-a125-fca7df38741e" />
+Therefore to write a Python program that prints the characters 'T' and 'a' using character literals is compiled and the output is verified successfully.
